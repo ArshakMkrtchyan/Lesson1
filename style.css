@@ -1,0 +1,15 @@
+.divs{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.divs div {
+    align-items: center;
+}
+
+
+.fa-location-dot, .fa-phone, .fa-fax, .fa-envelope{
+    color: blue;
+    font-size: 50px;
+}
